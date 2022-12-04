@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student achievement</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="desktop-1 screen">
+ <div class="flex-row">
+  <div class="overlap-group1">
+   <div class="rectangle-1"></div>
+    <img class="x1" src="-1.png" alt="1" /> 
+    </div>
+     <h1 class="student-achievement ">STUDENT ACHIEVEMENT</h1> 
+<img class="ictwotone-menu-book" src="ic-twotone-menu-book.svg" alt="ic: twotone-menu-book" /><img
+class="mdiaccount-circle" 
+src="mdi-account-circle.svg"
+ alt="mdi:account-circle"
+/>
+  </div>
+<div class="overlap-group">
+ <div class="economic inter-normal-black-48px">ECONOMIC</div>
+  <div class="juridical inter-normal-black-48px">JURIDICAL</div>
+   <div class="philological inter-normal-black-48px">PHILOLOGICAL</div>
+    <div class="historical inter-normal-black-48px">HISTORICAL</div>
+     </div>
+    <div class="overlap-group2">
+     <div class="rectangle-7"></div>
+      <p class="log-out-of-your-personal-account inter-normal-black-48px">LOG OUT OF YOUR PERSONAL ACCOUNT</p>
+       <div class="session-start-date inter-normal-black-48px">SESSION START DATE</div>
+        <div class="university-news inter-normal-black-48px">UNIVERSITY NEWS</div>
+        <img class="session_1355475-1-1" src="session-1355475-1-1" 
+        src="session-1355475-1-1.png"
+         alt=" session_1355475 (1) 1" /><img
+          class="logout_icon_212406-1"
+           src="logout-icon-212406-1.png"
+            alt="logout_icon_212406 1"
+              /><img backg class="x488173ce28c32bd387929b178cb007a0-1"
+               src="488173ce20c32bd387929b170cb007a0-1.png"
+                alt="488173ce28c32bd387929b178cb087a8 1"
+                />
+                  </div>
+                  </div>
+</body>

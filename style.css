@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css? family-Inter:400");
+ .desktop-1 {
+     align-items: flex-end;
+      background-color: var(--white);
+       border: 1px none;
+        display: flex;
+        flex-direction: column;
+     height: 1789px;
+      padding: 22px 93px;
+       width: 2585px;
+     } 
+      .hidden,
+       .hidden * { 
+        pointer-events: none; 
+        visibility: hidden;
+     } 
+     .flex-row {
+         align-items: center; 
+         display: flex;
+          height: 265px;
+           margin-right: 92px;
+            min-width: 2250px;
+    }
+    .student-achievement { 
+        color: #010101;
+         font-family: var (--font-family-inter);
+          font-size: var (--font-size-1);
+           font-weight: 400;
+            letter-spacing: 0;
+             line-height: normal;
+              margin-left: 69px;
+               min-height: 265px;
+                width: 1000px;
+            }
+        .ictwotone-menu-book {
+             height: 232px;
+              margin-bottom: 11px;
+               margin-left: 420px;
+                width: 245px;
+                 } 
+                 .mdiaccount-circle {
+                     height: 232px;
+                      margin-left: 38px;
+                      margin-top: 11px;
+                       width: 238px;
+                    }
+                    .overlap-group1 {
+                     height: 256px;
+                     margin-top: 3px;
+                     position: relative;
+                    width: 240px;
+                }
+                .rectangle-1 {
+                 background-color: var(--alto);
+                 border: 1px none;
+                  height: 10px;
+                   left: 184px;
+                  position: absolute;
+                   top: 110px;
+                    width: 10px;
+                }
+                .x1 { 
+                    height: 256px;
+                     left: 0;
+                      object-fit: cover;
+                     position: absolute;
+                    top: 0;
+                     width: 240px;
+                    }
+                 .overlap-group {
+                 align-items: flex-start;
+                 background-color: var(--alto);
+                 display: flex;
+                 flex-direction: column;
+                 margin-top: 21px;
+                 padding: 72px 0;
+                  width: 2342px;
+                }
+                .historical {
+                letter-spacing: 0;
+                line-height: normal; 
+                margin-left: 6px;
+                 margin-top: 75px;
+                 min-height: 71px;
+                 width: 322px;
+                }
+                .mathematica-1 { 
+                letter-spacing: 0;
+                 line-height: normal; 
+                 margin-left: 6px;
+                  margin-top: 75px;
+                   min-height: 62px;
+                    width: 378px;
+                }
+                .philological {
+                     letter-spacing: 0;
+                     line-height: normal;
+                      margin-top: 80px;
+                       min-height: 67px;
+                        width: 347px;
+                     } 
+                    .economic {
+                    letter-spacing: 0;
+                    line-height: normal;
+                    margin-top: 76px;
+                     min-height: 69px;
+                     width: 328px;
+                     } 
+                    .juridical { 
+                    letter-spacing: 0;
+                    line-height: normal;
+                    margin-top: 80px;
+                    min-height: 76px;
+                    width: 275px;
+                    }
+                .overlap-group2 {
+                 height: 368px;
+                 margin-top: 123px; 
+                 position: relative;
+                  width: 1574px;
+                 } 
+                .university-news {
+                left: 81px;
+                 letter-spacing: 0;
+                  line-height: normal;
+                   position: absolute;
+                   top: 248px;
+                    width: 491px;
+                }
+                .rectangle-7 {
+                 background-color: var(--white);
+                 border: 1px none;
+                  height: 346px;
+                  left: 0;
+                   position: absolute; 
+                   top: 0; 
+                   width: 1511px; 
+                    }
+                .x408173ce20c32bd387929b170cb007a0-1 {
+                height: 163px;
+                 left: 179px;
+                  object-fit: cover;
+                   position: absolute;
+                    top: 46px;
+                     width: 193px;
+                     } 
+                    .session-start-date { 
+                        left: 637px;
+                        letter-spacing: 0;
+                        line-height: normal;
+                         top: 208px;
+                        width: 310px;
+                     }
+                    .session_1355475-1-1 {
+                     height: 195px;
+                      left: 672px;
+                     object-fit: cover;
+                      position: absolute;
+                       top: 14px;
+                     width: 173px;
+                    }
+                    .log-out-of-your-personal-account {
+                    left: 1011px;
+                     letter-spacing: 0;
+                     line-height: normal;
+                     position: absolute;
+                       top: 219px;
+                        width: 563px;
+                          }
+                        .logout_icon_212406-1 {
+                         height: 174px;
+                          left: 1133px;
+                           object-fit: cover;
+                            position: absolute;
+                             top: 25px;
+                            width: 197px;
+                        }
